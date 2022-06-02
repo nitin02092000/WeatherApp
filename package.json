@@ -1,0 +1,23 @@
+{
+  "name": "expressweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thapatechnical/webproject.git"
+  },
+  "author": "Nitin Purohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thapatechnical/webproject/issues"
+  },
+  "homepage": "https://github.com/thapatechnical/webproject#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0"
+  }
+}
